@@ -39,9 +39,9 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 .box3 {
   // default order is 0
-  order: 1;   // This will position item 3 to the second last of the row
+  order: -1;   // This will position item 3 to the second in the row
 }
 
 .box7 {
-  order: 2;   // This will position item 7 to the end of the row
+  order: -2;   // This will position item 7 to the first in the row
 }
