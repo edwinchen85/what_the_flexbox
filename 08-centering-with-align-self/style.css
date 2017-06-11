@@ -50,5 +50,5 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 .box9 {
   padding-bottom: 50px;
-  align-self: center;
+  align-self: stretch;
 }
