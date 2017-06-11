@@ -36,3 +36,8 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .box {
   flex: 1;
 }
+
+.box3 {
+  // default order is 0
+  order: 1;   // This will position item 3 to the end of the row
+}
