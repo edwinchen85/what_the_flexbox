@@ -114,4 +114,12 @@ section, footer {
     order: 1;
   }
 
+  .toggleNav {
+    display: block;
+  }
+
+  .flex-nav ul {
+    display: none;
+  }
+
 }
