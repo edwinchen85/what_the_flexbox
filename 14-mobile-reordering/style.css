@@ -76,6 +76,7 @@ section, footer {
   flex: 1;
 }
 
+/* Medium screen size */
 @media all and (max-width:1000px) {
 
   .flex-nav ul {
@@ -92,7 +93,7 @@ section, footer {
 
 }
 
-
+/* Small screen size */
 @media all and (max-width:500px) {
 
   .flex-nav li {
