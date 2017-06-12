@@ -99,8 +99,10 @@ section, footer {
     flex-basis: 100%;
   }
 
+  /* Flex Container */
   .wrapper {
     display: flex;
+    flex-direction: column;
   }
 
 }
