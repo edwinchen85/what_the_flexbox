@@ -38,3 +38,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   flex-basis: 500px;
   flex-grow: 1;
 }
+
+.box3 {
+  flex-grow: 10;
+}
