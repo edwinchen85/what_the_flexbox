@@ -105,4 +105,13 @@ section, footer {
     flex-direction: column;
   }
 
+  /* Flex Item */
+  .wrapper > * {
+    order: 9999;
+  }
+
+  .flex-nav {
+    order: 1;
+  }
+
 }
