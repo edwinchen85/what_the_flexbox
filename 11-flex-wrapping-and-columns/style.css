@@ -34,7 +34,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   flex-wrap: wrap;
   flex-direction: column;
   border: 10px solid goldenrod;
-  min-height: 100vh;
+  height: 100vh;
 }
 
 .box {
