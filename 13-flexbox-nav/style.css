@@ -47,6 +47,10 @@ a:hover {
 }
 
 .flex-nav li {
+  flex: 3;
+}
+
+.flex-nav .social {
   flex: 1;
 }
 
