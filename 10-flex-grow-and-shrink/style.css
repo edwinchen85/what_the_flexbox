@@ -35,8 +35,13 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 .box1 {
   flex-basis: 400px;
+  flex-grow: 1;
 }
 
 .box2 {
   flex-basis: 400px;
+  /*
+  default setting
+  flex-grow: 0;
+  */
 }
