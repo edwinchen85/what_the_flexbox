@@ -99,4 +99,8 @@ section, footer {
     flex-basis: 100%;
   }
 
+  .wrapper {
+    display: flex;
+  }
+
 }
