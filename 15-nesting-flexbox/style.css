@@ -57,4 +57,5 @@ a:hover {
 .slider-nav a {
   flex-basis: 100%;
   display: flex;
+  align-items: center;
 }
