@@ -44,8 +44,12 @@ a:hover {
 
 /* Our first flex item */
 .slider-nav li {
-  flex: 1;
+  flex: 2;
   border: 1px solid red;
+}
+
+.slider-nav .arrow {
+  flex: 1;
 }
 
 .slider-nav a {
