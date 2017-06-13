@@ -47,3 +47,8 @@ a:hover {
   flex: 1;
   border: 1px solid red;
 }
+
+.slider-nav a {
+  display: block;
+  width: 100%;
+}
