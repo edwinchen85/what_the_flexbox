@@ -59,3 +59,9 @@ a:hover {
   display: flex;
   align-items: center;
 }
+
+/* span default display is inline */
+.slider-nav span {
+  display: block;
+  width: 100%;
+}
