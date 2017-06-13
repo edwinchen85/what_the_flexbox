@@ -54,6 +54,10 @@ a:hover {
   flex: 1;
 }
 
+.arrow a {
+  font-size: 30px;
+}
+
 .slider-nav a {
   flex-basis: 100%;
   display: flex;
