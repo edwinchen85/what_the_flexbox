@@ -55,5 +55,5 @@ a:hover {
 }
 
 .slider-nav a {
-
+  flex-basis: 100%;
 }
