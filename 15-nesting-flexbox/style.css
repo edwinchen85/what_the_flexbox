@@ -47,6 +47,7 @@ a:hover {
   flex: 2;
   border: 1px solid red;
   text-align: center;
+  display: flex;
 }
 
 .slider-nav .arrow {
