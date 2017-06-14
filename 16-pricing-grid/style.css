@@ -72,3 +72,7 @@ a {
   flex: 1;
   display: flex;
 }
+
+.plan .cta {
+  align-self: flex-end;
+}
