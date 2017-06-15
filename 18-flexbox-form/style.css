@@ -76,4 +76,5 @@ a {
 
 .flex-form {
   display: flex;
+  border: 20px solid rgba(0,0,0,.3);
 }
