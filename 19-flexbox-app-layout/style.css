@@ -118,4 +118,5 @@ a.button {
 
 .content {
   overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
 }
