@@ -113,6 +113,14 @@ a.button {
 }
 
 /**
+* Header
+*/
+
+.app-header {
+  display: flex;
+}
+
+/**
  * Content
  */
 
