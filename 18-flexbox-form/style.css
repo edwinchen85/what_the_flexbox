@@ -70,4 +70,5 @@ a {
 /*Flexbox Starts Here*/
 .cover {
   display: flex;
+  justify-content: center;
 }
