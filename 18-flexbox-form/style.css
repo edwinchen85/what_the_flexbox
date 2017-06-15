@@ -68,3 +68,6 @@ a {
 }
 
 /*Flexbox Starts Here*/
+.cover {
+  display: flex;
+}
