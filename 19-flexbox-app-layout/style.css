@@ -102,3 +102,7 @@ a.button {
 /*
   Overall Layout
 */
+
+.app-wrap {
+  display: flex;
+}
